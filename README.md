@@ -12,3 +12,5 @@
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duck-positive&show_icons=true&theme=vue)
