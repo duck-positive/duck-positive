@@ -1,22 +1,36 @@
-<h2 align="center">서경덕 · Flutter / Android Developer</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:7F52FF&height=180&section=header&text=Seo%20Gyeongdeok&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Flutter%20%C2%B7%20Android%20Developer&descSize=16&descAlignY=58" width="100%"/>
 
 <p align="center">
-  <a href="mailto:gyeondeo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gyeondeo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
 
-## Tech Stack
+<h3 align="center">About</h3>
 
-| | |
-|:--|:--|
-| **Flutter** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/flutter__bloc-13B9FD?style=flat-square"/> <img src="https://img.shields.io/badge/go__router-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/dio-0175C2?style=flat-square"/> |
-| **Android** | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square"/> <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Retrofit%20%2F%20OkHttp-48B983?style=flat-square"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=Anthropic&logoColor=white"/> |
+<p align="center">
+  Flutter 앱과 Android 채팅 SDK를 만들고 있습니다.<br/>
+  코드뿐 아니라 팀이 같이 보는 문서와 규칙을 정리하는 걸 좋아합니다.
+</p>
 
 <br/>
 
+<h3 align="center">Tech Stack</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duck-positive&show_icons=true&theme=vue&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duck-positive&layout=compact&theme=vue&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&theme=dark" />
 </p>
+<p align="center">
+  <sub>flutter_bloc · go_router · dio · Coroutines · Room · Retrofit · OkHttp</sub>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma&theme=dark" />
+</p>
+<p align="center">
+  <sub>Jira · Confluence · Claude Code</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:02569B&height=100&section=footer" width="100%"/>
